@@ -11,7 +11,7 @@ fn main() {
     let day = &args[1];
     match day.as_str() {
         "1" => days::day01::run(),
-        "2" => days::day01::run(),
+        "2" => days::day02::run(),
         _ => println!("Pick a valid date!"),
     }
 }
