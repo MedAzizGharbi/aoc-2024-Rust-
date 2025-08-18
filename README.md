@@ -12,8 +12,8 @@ My solutions for [Advent of Code 2024](https://adventofcode.com/2024), written i
 aoc-2024/
 ├── Cargo.toml
 ├── src/
-│   ├── main.rs        # dispatcher to run each day
-│   ├── lib.rs         # shared utils (optional)
+│   ├── main.rs       
+│   ├── lib.rs         
 │   ├── days/
 │   │   ├── mod.rs
 │   │   ├── day01.rs
@@ -38,7 +38,7 @@ Runs Day 1 (day01.rs) with inputs/day01.txt.
 ## ✅ Progress
 
 - [x] Day 1
-- [ ] Day 2
+- [x] Day 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
